@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         EmploMaster
-// @namespace    EmploMaster
-// @version      1.0
+// @namespace    wklejki-fitmeet
+// @version      4.7
 // @author       MJU
 // @description  Automatyczne formatki (wklejki) na stronie wniosku emplo — rozpoznaje wnioski o dostęp do Perfect Gym
 // @match        https://bsof.emplo.com/*
@@ -12,8 +12,8 @@
 // @grant        GM_getValue
 // @grant        GM_addValueChangeListener
 // @run-at       document-idle
-// @updateURL    https://raw.githubusercontent.com/TWOJA-ORGANIZACJA/TWOJE-REPO/main/wklejki-fitmeet-emplo.user.js
-// @downloadURL  https://raw.githubusercontent.com/TWOJA-ORGANIZACJA/TWOJE-REPO/main/wklejki-fitmeet-emplo.user.js
+// @updateURL    https://github.com/Restian5/TestowyRestian/raw/refs/heads/main/wklejki-fitmeet-emplo.user.js
+// @downloadURL  https://github.com/Restian5/TestowyRestian/raw/refs/heads/main/wklejki-fitmeet-emplo.user.js
 // ==/UserScript==
 
 (function () {
