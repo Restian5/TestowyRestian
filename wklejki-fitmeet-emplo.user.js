@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         EmploMaster 1.0
-// @namespace    EmploMaster 1.0
-// @version      1.0
+// @name         EmploMaster 1.1
+// @namespace    EmploMaster 1.1
+// @version      1.1
 // @author       MJU
 // @description  Automatyczne formatki (wklejki) na stronie wniosku emplo — rozpoznaje wnioski o dostęp do Perfect Gym
 // @match        https://bsof.emplo.com/*
